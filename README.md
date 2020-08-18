@@ -1,4 +1,4 @@
-# Unity_Data_Snapshot_Injection
+# Unity_Data_Snapshot_Tool_Injection
 A Unity assembly injection thats allows the user to extract the property variable data on every game object loaded in the scene by the press of a button.
 ---
 ## How do I use this?
