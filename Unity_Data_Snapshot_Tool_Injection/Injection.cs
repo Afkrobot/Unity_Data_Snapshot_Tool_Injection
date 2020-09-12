@@ -7,7 +7,6 @@ using System.Reflection;
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
-using Steamworks;
 using System.IO.IsolatedStorage;
 
 namespace Unity_Data_Snapshot_Tool_Injection
